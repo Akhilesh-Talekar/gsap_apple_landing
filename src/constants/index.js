@@ -6,5 +6,4 @@ export const NavItems = [
   { label: "Watch" },
   { label: "AirPods" },
   { label: "TV & Home" },
-  { label: "Entertainment" },
 ];
